@@ -20,8 +20,7 @@ programmer_hash[:grace_hopper]
 end
 
 def alan_kay_is_known_for 
-  
-	of the :known_for key of :alan_kay?
+   :known_for key of :alan_kay?
 	
 	programmer_hash = 
  		{
